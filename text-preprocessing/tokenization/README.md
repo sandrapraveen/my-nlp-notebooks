@@ -17,8 +17,8 @@ This notebook (`text_tokenization.ipynb`) covers **different tokenization techni
 3. **NLTK Word Tokenizer**  
    - Uses `nltk.word_tokenize` for smarter tokenization.  
 
-4. **Sentence Tokenization**  
-   - Splits text into sentences using punctuation.  
+4. **Using Spacy Library**  
+   - Splits text into words.  
 
 5. **SentencePiece / Subword Tokenization**  
    - Used in BERT, GPT, and modern LLMs.  
